@@ -1,0 +1,1 @@
+using ins_report as service from '../../srv/inspection';
